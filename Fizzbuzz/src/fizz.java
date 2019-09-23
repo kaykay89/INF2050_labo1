@@ -14,7 +14,7 @@ public class fizz {
 			}else{
 				System.out.print(nombre + " \n");
 			}
-			nombre++;
+			//nombre++;
 		
 		}
 	}
